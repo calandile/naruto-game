@@ -1,3 +1,3 @@
-# Naruto game #
+# Naruto game
 
-Game
+Typescript playground :)
